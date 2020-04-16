@@ -18,3 +18,8 @@ The rest is quickly modeled by me. I just needed the mechanical sizes no need to
 Hope this is helpful to a few of you
 
 ciao.ubi
+
+![top](img/Fates_TOP.png)
+![side](img/Fates_RIGHT.png)
+![Pi side](img/Fates_PiSide.png)
+![perspective](img/Fates_Perspective.png)
